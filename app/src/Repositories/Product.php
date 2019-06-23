@@ -1,14 +1,13 @@
-<?php 
+<?php
 
 namespace src\Repositories;
 
-class User
+class Product
 {
 
     public function __construct()
     {
-        print('Hello User.');
+        print("Hello Product.");
     }
-
 
 }
